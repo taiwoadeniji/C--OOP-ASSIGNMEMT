@@ -85,7 +85,7 @@ namespace C_OOP_Assignment
 
             myName.IPaintname = "Colorful Design";
             myArtist.IArtistname = "Taiwo Toyin";
-            myMedium.IMediumname = "Social Media";
+            myMedium.IMediumname = "Marker";
             myYear.IYearname = "2020";
 
             Console.WriteLine("Name: " + myName.IPaintname);
